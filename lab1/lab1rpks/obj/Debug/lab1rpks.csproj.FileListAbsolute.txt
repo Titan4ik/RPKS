@@ -1,0 +1,15 @@
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\bin\Debug\lab1rpks.exe.config
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\bin\Debug\lab1rpks.exe
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\bin\Debug\lab1rpks.pdb
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\MainWindow.g.cs
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\App.g.cs
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks_MarkupCompile.cache
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks_MarkupCompile.lref
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\MainWindow.baml
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.g.resources
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.Properties.Resources.resources
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.csproj.GenerateResource.Cache
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.exe
+c:\users\aleks\documents\visual studio 2017\Projects\lab1rpks\lab1rpks\obj\Debug\lab1rpks.pdb
+C:\Users\aleks\Documents\Visual Studio 2017\Projects\lab1rpks\lab1rpks\bin\Debug\EasyEncryption.dll
